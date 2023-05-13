@@ -8,6 +8,7 @@ public class Main {
   public static int toplam(int k) {
     if (k > 0) {
       return k + toplam(k - 1);
+      
     } else {
       return 0;
       
