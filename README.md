@@ -1,4 +1,4 @@
-# ozyen-l-
+# ozyenili
 public class Main {
   public static void main(String[] args) {
     int sonuc = toplam(10);
