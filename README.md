@@ -10,6 +10,9 @@ public class Main {
       return k + toplam(k - 1);
     } else {
       return 0;
+      
     }
+    
   }
+  
 }
